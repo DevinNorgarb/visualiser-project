@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2019-05-26 00:00:13",
+        "vicinity_id": "6da2fef3-0a0f-4353-a193-c4f9e527c075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["-25.9636", "28.1378"]
+      }
+    }
+  ]
+}
